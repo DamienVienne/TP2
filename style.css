@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #fff;
 	padding: 20px;
 }
 
@@ -84,7 +84,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
-	background-color: red;
+	background-color: purple;
 }
 
 #footer
